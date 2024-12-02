@@ -1,4 +1,4 @@
-name: Automated Test
+name: Test program for A11
 on: [push]
 jobs:
   automated_test:
